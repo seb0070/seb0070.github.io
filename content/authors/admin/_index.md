@@ -6,8 +6,8 @@ title: 정세빈
 name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: 세빈
+last_name: 정
 
 # Pronouns (optional)
 pronouns: he/him
