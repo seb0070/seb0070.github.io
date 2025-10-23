@@ -3,18 +3,16 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+ko:
+  languageCode: ko-kr
+
+# Secondary language(English)
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
+  contentDir: content/en
+  title: "English site title"
+  params:
+    description: "Site description in English."
 #  menu:
 #    main:
 #      - name: 传
