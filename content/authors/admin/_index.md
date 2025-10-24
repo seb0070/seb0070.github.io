@@ -9,12 +9,12 @@ name_pronunciation: ""
 first_name: 세빈
 last_name: 정
 
-# Pronouns (optional)
-pronouns: he/him
+# # Pronouns (optional)
+# pronouns: he/him
 
-# Status emoji
-status:
-  icon: 🚀
+# # Status emoji
+# status:
+#   icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Frontend Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
