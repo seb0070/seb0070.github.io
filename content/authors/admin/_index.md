@@ -160,4 +160,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+사용자의 경험을 디자인하고, 그것을 코드로 구현하는 프론트엔드 개발자 정세빈입니다.  
+React와 TypeScript로 직관적이고 반응성이 높은 UI를 만들며, 디자인적인 완성도뿐만 아니라 **성능 최적화와 접근성까지 아우르는 사용자 친화적인 웹 개발**을 지향합니다.  
+단순히 보이는 화면을 만드는 것이 아니라, 사용자가 신뢰하고 편리하게 이용할 수 있는 서비스, 특히 금융과 같은 실생활 기반 웹·앱 환경을 구현하는 것을 목표로 합니다.
