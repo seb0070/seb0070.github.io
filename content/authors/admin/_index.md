@@ -42,10 +42,10 @@ profiles:
     url: www.linkedin.com/in/세빈-정-abb578360
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 사용자 경험 중심의 프론트엔드 개발
+  - 직관적이고 반응성이 높은 UI 설계
+  - 성능 최적화와 웹 접근성 향상
+  - 금융 웹·앱 서비스 개발
 
 education:
   - area: PhD Computer Science (AI Focus)
