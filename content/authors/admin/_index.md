@@ -45,34 +45,15 @@ interests:
   - 사용자 경험 중심의 프론트엔드 개발
   - 직관적이고 반응성이 높은 UI 설계
   - 성능 최적화와 웹 접근성 향상
-  - 금융 웹·앱 서비스 개발
+  - 금융 및 교육 웹·앱 서비스 개발
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: 컴퓨터공학과 학사
+    institution: 전북대학교
+    date_start: 2022-03-01
+    date_end: 2026-08-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com/thesis.pdf"
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      웹 프론트엔드 개발과 사용자 경험(UX)에 관심을 가지고 학업과 프로젝트를 병행 중입니다.
 
 work:
   - position: Senior AI Research Scientist
