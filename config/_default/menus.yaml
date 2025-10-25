@@ -5,32 +5,33 @@
 
 main:
   - name: About
-    url: /#about
+    url: /about/
     weight: 10
 
   - name: Skills
-    url: /#skills
+    url: /skills/
     weight: 11
 
   - name: Projects
-    url: /#projects
+    url: /projects/
     weight: 12
 
   - name: Experience
     identifier: experience
-    url: /#experience
+    url: /experience/
     weight: 13
 
   # Sub-menu items for Experience
   - name: Work
-    url: /#work
+    url: /experience/work/
     parent: experience
     weight: 20
+
   - name: Activities
-    url: /#activities
+    url: /experience/activities/
     parent: experience
     weight: 30
 
   - name: Contact
-    url: /#contact
+    url: /contact/
     weight: 40
