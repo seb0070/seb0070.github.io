@@ -39,8 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/seb0070
   - icon: brands/linkedin
-    url: www.linkedin.com/in/세빈-정-abb578360
-
+    url: https://www.linkedin.com/in/seb0070-abb578360/
 interests:
   - 사용자 경험 중심의 프론트엔드 개발
   - 직관적이고 반응성이 높은 UI 설계

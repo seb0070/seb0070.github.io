@@ -23,12 +23,12 @@ main:
 
   # Sub-menu items for Experience
   - name: Work
-    url: /experience/work/
+    url: /experience/#work/
     parent: experience
     weight: 20
 
   - name: Activities
-    url: /experience/activities/
+    url: /experience/#activities/
     parent: experience
     weight: 30
 
