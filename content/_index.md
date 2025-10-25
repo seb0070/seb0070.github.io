@@ -19,7 +19,7 @@ sections:
           align: center
           background:
             image:
-              filename: "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?auto=format&fit=crop&q=80&w=1932"
+              url: "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?auto=format&fit=crop&q=80&w=1932"
               filters:
                 brightness: 0.4
             position: center
@@ -30,7 +30,7 @@ sections:
           align: center
           background:
             image:
-              filename: "https://images.unsplash.com/photo-1607706189992-eae578626c86?auto=format&fit=crop&q=80&w=2070"
+              url: "https://images.unsplash.com/photo-1607706189992-eae578626c86?auto=format&fit=crop&q=80&w=2070"
               filters:
                 brightness: 0.4
             position: center
@@ -41,7 +41,7 @@ sections:
           align: center
           background:
             image:
-              filename: "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?auto=format&fit=crop&q=60&w=1000"
+              url: "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?auto=format&fit=crop&q=60&w=1000"
               filters:
                 brightness: 0.4
             position: center
