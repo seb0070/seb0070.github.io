@@ -53,3 +53,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+# Legacy key that some templates still check
+googleAnalytics: ""
+
+# New-style services block (Hugo v0.111+)
+services:
+  googleAnalytics:
+    id: "" # leave blank to disable
