@@ -8,7 +8,7 @@ sections:
       title: ""
       text: "<br><span style='font-size:130%'>안녕하세요 👋 <b>UX와 성능에 집중하는 프론트엔드 개발자 정세빈</b>입니다.</span>"
 
-  - block: slider
+  - block: gallery
     content:
       slides:
         - title: "사용자 경험과 성능에 집중하는 프론트엔드 개발자"
