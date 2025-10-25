@@ -1,4 +1,6 @@
 ---
+avatar: "jeongsebin.png"
+
 # Display name
 title: 정세빈
 
