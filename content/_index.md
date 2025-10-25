@@ -7,7 +7,7 @@ sections:
   # Intro section
   - block: features
     content:
-      title:
+      title: ""
       text: "<br><span style='font-size:130%'>안녕하세요 👋 <b>UX와 성능에 집중하는 프론트엔드 개발자 정세빈</b>입니다.</span>"
 
   # Slider section
@@ -19,7 +19,7 @@ sections:
           align: center
           background:
             image:
-              filename: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%82%A4%EB%B3%B4%EB%93%9C%EC%99%80-%EB%A7%88%EC%9A%B0%EC%8A%A4%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-yGQmjh2uOTg"
+              filename: "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1932"
               filters:
               brightness: 0.4
             position: center
@@ -30,7 +30,7 @@ sections:
           align: center
           background:
             image:
-              filename: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EB%B8%94%EB%9E%99-%ED%8F%89%EB%A9%B4-%EC%8A%A4%ED%81%AC%EB%A6%B0-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%AA%A8%EB%8B%88%ED%84%B0-oXlXu2qukGE"
+              filename: "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
               filters:
               brightness: 0.4
             position: center
