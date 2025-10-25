@@ -33,7 +33,7 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects]
+  home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -53,11 +53,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-# Legacy key that some templates still check
-googleAnalytics: ""
-
-# New-style services block (Hugo v0.111+)
-services:
-  googleAnalytics:
-    id: "" # leave blank to disable
