@@ -43,7 +43,7 @@ education:
   - area: 컴퓨터공학부 학사
     institution: 전북대학교 공과대학
     date_start: 2022-03-01
-    date_end: 2026-08
+    date_end: 2026-08-31
     summary: |
       웹 프론트엔드 개발과 사용자 경험(UX)에 관심을 가지고 학업과 프로젝트를 병행 중입니다.
 
