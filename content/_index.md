@@ -19,7 +19,7 @@ sections:
     design:
       background:
         image:
-          url: "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?auto=format&fit=crop&w=1600&q=80"
+          filename: "niclas-illg-FJ5e_2f96h4-unsplash.jpg"
           filters:
             brightness: 0.4
       # 높이 조절 (vh 단위)
@@ -36,7 +36,7 @@ sections:
     design:
       background:
         image:
-          url: "https://images.unsplash.com/photo-1607706189992-eae578626c86?auto=format&fit=crop&w=1600&q=80"
+          filename: "tirza-van-dijk-o1SKqmgSDbg-unsplash.jpg"
           filters:
             brightness: 0.4
       justify: center
@@ -52,7 +52,7 @@ sections:
     design:
       background:
         image:
-          url: "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?auto=format&fit=crop&w=1600&q=80"
+          filename: "tirza-van-dijk-o1SKqmgSDbg-unsplash.jpg"
           filters:
             brightness: 0.4
       justify: center
