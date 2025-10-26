@@ -6,7 +6,7 @@ sections:
   - block: hero
     content:
       title: "Contact"
-      text: "협업이나 문의는 아래 채널을 통해 편하게 연락 주세요."
+      text: "안녕하세요. 프론트엔드 개발자로 성장 중인 정세빈입니다. \n사용자 경험(UX)과 직관적인 인터페이스(UI)에 관심이 많으며, 특히 금융과 교육 분야의 웹·앱 서비스 개발에 흥미를 가지고 있습니다. \n협업 제안이나 문의가 있다면 아래 연락처로 언제든지 연락 주세요."
     design:
       align: start
       justify: start
