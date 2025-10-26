@@ -1,7 +1,3 @@
-좋아요 👍
-지금 올려주신 README는 HugoBlox Academic CV 템플릿의 기본 소개 문서예요.
-이걸 정세빈 님의 포트폴리오용으로 맞추면, 다음처럼 깔끔하고 개인 브랜딩 중심의 README로 바꿀 수 있습니다.
-
 ✨ Sebin | Frontend Developer Portfolio
 
 <h1 align="center">사용자 경험과 성능에 집중하는 프론트엔드 개발자</h1> <p align="center"> <strong>React와 TypeScript로 직관적이고 반응성 높은 웹을 만듭니다.</strong><br/> 금융과 교육 분야를 중심으로, 실사용자 환경에 맞는 <b>UX 중심의 인터페이스</b>를 설계하고 개발합니다. </p> <p align="center"> <a href="https://seb0070.github.io"><b>🌐 View Portfolio Site</b></a> &nbsp;•&nbsp; <a href="https://github.com/seb0070"><b>GitHub</b></a> &nbsp;•&nbsp; <a href="mailto:tpqls1703@gmail.com"><b>Email</b></a> </p>
