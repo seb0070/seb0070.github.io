@@ -1,13 +1,8 @@
 ---
 title: "Experience"
-date: 2023-10-24
 type: landing
 
-design:
-  spacing: "5rem"
-
 sections:
-  # 이건 경력 섹션
   - block: experience
     content:
       title: Work Experience
@@ -26,8 +21,8 @@ sections:
           date_end: ""
           summary: |2-
             초등학생을 대상으로 학습 지도와 상담을 진행했습니다. 학생들의 이해 수준에 맞춰 설명 방식을 조정하며, **체계적인 학습 방향을 설계하고 쉽게 전달하는 방법**을 익혔습니다.
-
     design:
       date_format: "January 2006"
-      is_education_first: false
+      is_education_first: false # 경력만 표시
+      show_education: false # 학위 섹션 숨김
 ---
