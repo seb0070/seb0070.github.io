@@ -4,14 +4,14 @@ type: landing
 date: 2025-10-26
 
 design:
-  spacing: "4rem"
+  spacing: "5rem"
 
 sections:
-  - block: features
+  - block: gallery
     content:
       title: ""
-      subtitle: ""
-      items:
+      caption: ""
+      images:
         - icon: brands/react
         - icon: brands/typescript
         - icon: brands/nextdotjs
@@ -22,8 +22,9 @@ sections:
         - icon: ui/eye
         - icon: ui/sparkles
     design:
-      show_titles: false # ← 이름/설명 숨김
-      show_descriptions: false
-      columns: 3 # (선택) 한 줄에 몇 개 보이게 할지
-      icon_size: xl # (선택) 아이콘 크기 조정 (sm, md, lg, xl)
+      columns: 5
+      show_captions: false
+      icon_size: xl
+      border_radius: none
+      alignment: center
 ---
