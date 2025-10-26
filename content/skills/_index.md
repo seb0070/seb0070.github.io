@@ -2,39 +2,34 @@
 title: "Skills"
 type: landing
 design:
-  spacing: "3rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
     content:
-      title: ""
       text: "프론트엔드 중심의 기술 스택, 사용 도구, 그리고 자격증을 정리했습니다."
     design:
-      height: "auto"
-      align: start
-      justify: start
+      align: center # 가운데 정렬
+      justify: center
+      spacing:
+        padding: ["0", "0", "1rem", "0"] # 상하좌우 여백 축소
 
-  # 1행: Frontend / Tools
-  - block: features
+  - block: resume-skills
     content:
       title: "Core Skills"
-      items:
+      skills:
         - name: "Frontend"
-          description: "HTML5, CSS3, JavaScript (ES6+), React"
+          items: [HTML5, CSS3, JavaScript (ES6+), React]
         - name: "Tools"
-          description: "Git/GitHub, Figma, VS Code"
-    design:
-      columns: 2
-
-  # 2행: App & Etc / Certificates
-  - block: features
-    content:
-      title: ""
-      items:
+          items: [Git/GitHub, Figma, VS Code]
         - name: "App & Etc"
-          description: "Android (Kotlin, 기초)"
+          items: [Android (Kotlin, 기초)]
         - name: "Certificates"
-          description: "정보처리기사, ADsP"
+          items: [정보처리기사, ADsP]
     design:
       columns: 2
+      align: center
+      spacing:
+        padding: ["0.5rem", "0", "0", "0"] # 간격 줄이기
+      font_size: L # ✅ 글자 크기 키우기 (공식 파라미터)
 ---
