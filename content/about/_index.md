@@ -18,6 +18,6 @@ sections:
         interests: ""
     design:
       avatar:
-        size: large
+        size: medium
         shape: circle
 ---
