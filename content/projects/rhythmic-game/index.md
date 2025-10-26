@@ -1,15 +1,19 @@
 ---
 title: Rhythmic Game
 date: 2023-10-26
-slug: rhythmic-game 
+slug: rhythmic-game
+draft: false
+
 links:
   - type: site
-    url: https://github.com/seb0070/Rhythmic-game-project
+    url: "https://github.com/seb0070/Rhythmic-game-project"
+
 tags:
   - Frontend
   - Game
   - JavaScript
   - Canvas
+
 summary: "웹 기반 리듬 게임. 실시간 키 입력·타이밍 판정을 구현하였습니다·
 ---
 
@@ -20,3 +24,7 @@ JavaScript와 HTML Canvas를 활용하여 **실시간 키 입력 처리**, **애
 사용자가 **리듬감과 시각적 피드백을 동시에 느낄 수 있는 UX**에 중점을 두었습니다.
 
 <!--more-->
+
+- 입력 버퍼링/딜레이 최소화
+- 판정(Perfect/Good/Miss) 및 스코어 계산
+- 캔버스 드로잉 최적화
